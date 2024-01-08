@@ -1,0 +1,134 @@
+@media (max-width:768px){
+  ul {
+    width: 700px;
+    justify-content: 0px;
+  }   
+  
+  .kontak img {
+    padding-left: 350px;
+    margin-top: 120px;
+  }
+  
+  .kontak h1 {
+    padding-left: 70px;
+    padding-top: 120px;
+  }
+  
+  .kontak2 {
+    display: flex;
+  }
+    
+  .kontak2 img {
+    width: 250px;
+    height: 250px;
+    margin-top: 50px;
+  }
+  
+  .background {
+    width: 270px;
+    margin-top: 120px;
+  }
+  
+  .kontak2 h1 {
+    float: block;
+    padding-top: 10px;
+    padding-left: 5px;
+    margin-left: 5px;
+    font-size: 18px;
+    padding-top: 50px;
+    margin-top: 120px;
+  }
+    
+  .box1 img {
+    margin-left: 120px;
+    width: 450px;
+  }
+  
+  .box2 {
+    display: block;
+  }
+  
+  .box2 img {
+    margin-left: 120px;
+    width: 450px;
+  }  
+  
+  .kontak1 img {
+    height: 150px;
+    width: 150px;
+    margin-left: 70px;
+    margin-top: 50px;
+  }
+
+  .kontak1 h2 {
+    margin-left: 268px;
+  }
+}
+
+@media (max-width:468px){
+  ul {
+  width: 200px;
+  justify-content: 0px;
+  }
+   
+
+  .kontak img {
+    padding-left: 150px;
+    margin-top: 0px;
+    float: left;
+  }
+
+  .kontak h1 {
+    padding-left: 20px;
+    padding-top: 10px;
+  }
+
+  .kontak2 {
+    display: block;
+  }
+  
+  .kontak2 img {
+    width: 350px;
+    height: 350px;
+  }
+
+  .background {
+    width: 355px;
+    margin-top: 10px;
+    padding-top: 10px;
+  }
+
+  .kontak2 h1 {
+    float: block;
+    padding-top: 5px;
+    padding-left: 5px;
+    margin-left: 5px;
+    font-size: 18px;
+    margin-top: 0px;
+  }
+  
+  .box1 img {
+    margin-left: 10px;
+    width: 340px;
+  }
+
+  .box2 {
+    display: block;
+  }
+
+  .box2 img {
+    margin-left: 10px;
+    width: 340px;
+  }
+
+  .kontak1 img {
+    margin-left: 10px;
+    width: 115px;
+    height: 115px;
+    margin-top: 50px;
+  }
+
+  .kontak1 h2 {
+    margin-left: 110px;
+  }
+}
